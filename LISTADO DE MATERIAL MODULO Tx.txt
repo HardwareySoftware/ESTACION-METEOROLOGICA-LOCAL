@@ -1,0 +1,28 @@
+
+--------------------------------------------------------
+
+        ESTACION METEOROLOGICA LOCAL 2026
+
+--------------------------------------------------------
+
+LISTADO DE MATERIAL MODULO TRANSMISOR (Tx) EXTERIOR:
+
+1. Placa Arduino NANO (microcontrolador ATmega 328P)
+2. Modulo XBee Explorer Regulated
+3. Modulo XBee S1 con antena de alambre
+4. Sensor de UVI e Iluminacion ambiental LTR390
+5. Sensor de temperatura y humedad relativa AHT20
+6. Sensor de presion barometrica y altitud BMP180
+7. Sensor de calidad del aire SGP41
+8. Kit SparkFun SEN-15901
+9. Panel solar monocristalino de 5 Vcc / 2 W
+10. Modulo cargador TP4056
+11. Bateria recargable Li-Ion 18650 de 3.7 Vcc / 3000 mAh
+12. Lamina de vidrio de cuarzo de silice fundido JGS1 (15x15 mm)
+13. Caja plastica con proteccion IP65
+14. Led rojo 5 mm
+15. Resistencia de 220 Ohms a 1/2 W para el Led
+16. Resistencias de 4.7 KOhms a 1/2 W para la comunicacion I2C
+17. Conectores macho/hembra de dos, tres y cuatro terminales
+18. Elementos varios
+
