@@ -12,5 +12,5 @@ LISTADO DE MATERIAL MODULO RECEPTOR (Rx):
 3. Modulo XBee S1 con antena de alambre
 4. Pantalla LCD TFT de 2.4 pulgadas (controlador ILI1934)
 5. Fuente de alimentacion de 5 Vcc / 2 A
-6. Caja plastica con proteccion IP65
+6. Caja plastica con proteccion IP65 (130x70x40 mm). 
 7. Varios
